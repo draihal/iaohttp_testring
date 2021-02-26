@@ -7,7 +7,7 @@ verify_ssl = true
 pytest-aiohttp = "*"
 
 [packages]
-aiohttp = "~=3.6"
+aiohttp = "~=3.7"
 aiohttp-swagger = "*"
 pyyaml = "*"
 aiopg = {extras = ["sa"],version = "*"}
